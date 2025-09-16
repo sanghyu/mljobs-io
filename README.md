@@ -1,1 +1,1 @@
-<a href="https://mljobs.io">MLjobs.io</a> - A job board for AI & Machine Learning jobs
+A job board for <a href="https://mljobs.io">AI & Machine Learning Jobs</a>
